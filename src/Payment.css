@@ -1,0 +1,87 @@
+.payment{
+    background-color: white;
+    display: flex;
+   
+}
+
+
+
+.payment_container > h1{
+    text-align: center;
+    padding: 10px;
+    font-weight: 400;
+    background-color: rgb(234, 237, 237);
+    border-bottom: 1px solid lightgray;
+}
+
+.payment_container > h1 a {
+   text-decoration: none;
+}
+
+.payment_section{
+    display: flex;
+    padding: 20px;
+    margin: 0 20px;
+    border-bottom: 1px solid lightgray;
+}
+
+.payment_title{
+    flex: 0.2;
+}
+
+.payment_address, .payment_items, .payment_method{
+    flex: 0.8;
+}
+
+.payment-option {
+    margin-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+  }
+  
+  .payment-details {
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  
+  .payment-details label {
+    display: block;
+    margin-bottom: 5px;
+    margin-left: 5px;
+  }
+  
+  .payment-details input {
+    width: calc(100% - 10px);
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+
+p{
+    display: block;
+    border-bottom: lightgray;
+    padding: 10px;
+    margin: 10px;
+}
+
+.payment_items{
+  display: flex;
+  justify-items: center;
+  flex-wrap: wrap;
+}
+
+.pay_button > button{
+    background: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    padding: 3px;
+   
+}
+
+.pay_button{
+  align-items: center;
+}
+
+.discount_total{
+  color: darkred;
+}
