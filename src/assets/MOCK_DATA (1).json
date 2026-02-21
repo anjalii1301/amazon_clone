@@ -1,0 +1,1352 @@
+[
+    {
+        "id": 1,
+        "title": "Adjustable Kitchen Broom Stand",
+        "category": "Home & Kitchen",
+        "description": "Space-saving broom holder for organized cleaning supplies.",
+        "price": 14.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/191x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 2,
+        "title": "Sculpting Kit",
+        "category": "Art Supplies",
+        "description": "Complete sculpting tools for artists.",
+        "price": 25.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/165x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 3,
+        "title": "Vegan Alfredo Sauce",
+        "category": "Food",
+        "description": "Creamy, Food-free Alfredo sauce",
+        "price": 4.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/247x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 4,
+        "title": "Sweet Pea Hummus",
+        "category": "Food",
+        "description": "Creamy hummus made with sweet peas and tahini.",
+        "price": 4.29,
+        "rating": 3,
+        "image": "http://dummyimage.com/224x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 5,
+        "title": "Thai Green Curry Paste",
+        "category": "Food",
+        "description": "A rich curry paste for making authentic Thai green curry at home.",
+        "price": 2.49,
+        "rating": 2,
+        "image": "http://dummyimage.com/183x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 6,
+        "title": "Sweet Chili Thai Sauce",
+        "category": "Food",
+        "description": "Tangy sweet chili sauce perfect for dipping or cooking.",
+        "price": 3.49,
+        "rating": 4,
+        "image": "http://dummyimage.com/222x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 7,
+        "title": "Mini Waffle Maker",
+        "category": "Home & Kitchen",
+        "description": "Compact waffle maker for perfect small waffles.",
+        "price": 24.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/107x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 8,
+        "title": "Coconut Flakes",
+        "category": "Food",
+        "description": "Unsweetened coconut flakes for baking and topping.",
+        "price": 3.29,
+        "rating": 1,
+        "image": "http://dummyimage.com/119x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 9,
+        "title": "Smart Light Switch",
+        "category": "Home & Kitchen",
+        "description": "Control lights remotely with this smart switch.",
+        "price": 29.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/132x100.png/dddddd/000000"
+    },
+    {
+        "id": 10,
+        "title": "Savory Pumpkin Soup",
+        "category": "Food",
+        "description": "Creamy pumpkin soup with Kitchen",
+        "price": 3.89,
+        "rating": 4,
+        "image": "http://dummyimage.com/113x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 11,
+        "title": "Frozen Hash Browns",
+        "category": "Food",
+        "description": "Shredded potatoes, perfect for breakfasts.",
+        "price": 2.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/151x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 12,
+        "title": "Honey Garlic Shrimp",
+        "category": "Food",
+        "description": "Shrimp marinated in a honey garlic sauce, ready to cook.",
+        "price": 8.49,
+        "rating": 5,
+        "image": "http://dummyimage.com/115x100.png/dddddd/000000"
+    },
+    {
+        "id": 13,
+        "title": "Fleece Lined Leggings",
+        "category": "Fashion",
+        "description": "Comfortable and warm leggings perfect for colder weather.",
+        "price": 29.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/144x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 14,
+        "title": "Dishwasher Safe Cutting Board",
+        "category": "Home & Kitchen",
+        "description": "Eco-friendly cutting board that is safe for dishwashers.",
+        "price": 22.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/226x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 15,
+        "title": "Sriracha Hot Chili Sauce",
+        "category": "Food",
+        "description": "Spicy and tangy chili sauce for adding heat to any dish.",
+        "price": 2.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/230x100.png/dddddd/000000"
+    },
+    {
+        "id": 16,
+        "title": "Granola Bars",
+        "category": "Snacks & Beverages",
+        "description": "Crispy and chewy granola bars, perfect for on-the-go.",
+        "price": 4.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/155x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 17,
+        "title": "Honey Sriracha Chicken Bites",
+        "category": "Food",
+        "description": "Frozen chicken bites coated in a honey sriracha glaze, spicy and sweet.",
+        "price": 7.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/232x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 18,
+        "title": "Chiffon Blouse",
+        "category": "Fashion",
+        "description": "Elegant chiffon blouse perfect for work or outings.",
+        "price": 39.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/237x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 19,
+        "title": "Travel Sewing Kit",
+        "category": "Home & Kitchen",
+        "description": "Compact sewing kit for travel emergencies.",
+        "price": 12.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/239x100.png/dddddd/000000"
+    },
+    {
+        "id": 20,
+        "title": "Electric Toothbrush",
+        "category": "Electronics",
+        "description": "Rechargeable electric toothbrush with smart timer.",
+        "price": 49.95,
+        "rating": 1,
+        "image": "http://dummyimage.com/141x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 21,
+        "title": "Kids' Learning Tablet",
+        "category": "Electronics",
+        "description": "Educational tablet designed for preschool-age children.",
+        "price": 129.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/223x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 22,
+        "title": "Adjustable Garden Rake",
+        "category": "Home & Kitchen",
+        "description": "Heavy-duty rake with adjustable width for different gardening needs.",
+        "price": 22.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/113x100.png/dddddd/000000"
+    },
+    {
+        "id": 23,
+        "title": "Cable Knit Cardigan",
+        "category": "Fashion",
+        "description": "Cozy cable knit cardigan to layer during chilly evenings.",
+        "price": 49.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/211x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 24,
+        "title": "Tomato Basil Pasta Sauce",
+        "category": "Food",
+        "description": "Rich and flavorful pasta sauce made with ripe tomatoes and basil.",
+        "price": 3.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/176x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 25,
+        "title": "Instant Camera",
+        "category": "Photography",
+        "description": "Retro instant camera for capturing and printing photos instantly.",
+        "price": 89.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/230x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 26,
+        "title": "Spicy Roasted Nuts",
+        "category": "Snacks & Beverages",
+        "description": "A mix of nuts roasted with spicy seasonings, perfect for snacking.",
+        "price": 4.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/246x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 27,
+        "title": "Fashionable Belt Bag",
+        "category": "Accessories",
+        "description": "Trendy belt bag for hands-free carrying.",
+        "price": 34.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/151x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 28,
+        "title": "Pet Grooming Glove",
+        "category": "Pets",
+        "description": "Gentle glove for brushing and massaging your pet.",
+        "price": 12.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/229x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 29,
+        "title": "USB Wall Charger",
+        "category": "Accessories",
+        "description": "Multiple USB ports for charging devices simultaneously.",
+        "price": 19.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/166x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 30,
+        "title": "Kids' Educational Tablet",
+        "category": "Electronics",
+        "description": "Learning tablet with kid-friendly educational apps.",
+        "price": 129.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/127x100.png/dddddd/000000"
+    },
+    {
+        "id": 31,
+        "title": "Warm Wool Sweater",
+        "category": "Fashion",
+        "description": "Cozy wool sweater to keep you warm on chilly days.",
+        "price": 59.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/243x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 32,
+        "title": "Adjustable Bar Stools",
+        "category": "Home & Kitchen",
+        "description": "Stylish bar stools with adjustable height and swivel features.",
+        "price": 149.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/129x100.png/dddddd/000000"
+    },
+    {
+        "id": 33,
+        "title": "Classic Caesar Dressing",
+        "category": "Food",
+        "description": "Rich and creamy Caesar dressing for salads and wraps.",
+        "price": 3.49,
+        "rating": 4,
+        "image": "http://dummyimage.com/249x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 34,
+        "title": "Electronic Drum Kit",
+        "category": "Music & Fitness",
+        "description": "Compact electronic drum kit for musicians of all levels.",
+        "price": 359.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/172x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 35,
+        "title": "Apple Cinnamon Oatmeal",
+        "category": "Food",
+        "description": "Warm oatmeal flavored with apple and cinnamon.",
+        "price": 2.89,
+        "rating": 5,
+        "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 36,
+        "title": "Organic Granola Cereal",
+        "category": "Food",
+        "description": "Crunchy granola made with organic oats",
+        "price": 5.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/196x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 37,
+        "title": "Portable Charcoal Grill",
+        "category": "Home & Kitchen",
+        "description": "Compact charcoal grill perfect for tailgating.",
+        "price": 89.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/149x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 38,
+        "title": "Chocolate Chip Muffins",
+        "category": "Snacks & Beverages",
+        "description": "Fresh baked chocolate chip muffins for breakfast.",
+        "price": 3.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/211x100.png/dddddd/000000"
+    },
+    {
+        "id": 39,
+        "title": "Chili Lime Seasoning",
+        "category": "Home & Kitchen",
+        "description": "Zesty seasoning great for tacos and grilling.",
+        "price": 2.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/157x100.png/dddddd/000000"
+    },
+    {
+        "id": 40,
+        "title": "Fitness Activity Journal",
+        "category": "Music & Fitness",
+        "description": "Journal to record workouts and nutrition.",
+        "price": 14.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/160x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 41,
+        "title": "Wireless Music Receiver",
+        "category": "Music & Fitness",
+        "description": "Stream music from your device to any speaker wirelessly.",
+        "price": 19.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/187x100.png/dddddd/000000"
+    },
+    {
+        "id": 42,
+        "title": "Coconut Curry Lentil Soup",
+        "category": "Food",
+        "description": "A hearty soup made with lentils, coconut milk, and a blend of Kitchen for a tropical flavor.",
+        "price": 3.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/246x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 43,
+        "title": "Ramen Noodle Soup Cups",
+        "category": "Food",
+        "description": "Instant ramen cups with flavor-packed broth.",
+        "price": 1.29,
+        "rating": 2,
+        "image": "http://dummyimage.com/204x100.png/dddddd/000000"
+    },
+    {
+        "id": 44,
+        "title": "Dark Chocolate Covered Pretzels",
+        "category": "Snacks & Beverages",
+        "description": "Crunchy pretzels dipped in rich dark chocolate.",
+        "price": 3.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/125x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 45,
+        "title": "Grass Fed Beef Patties",
+        "category": "Food",
+        "description": "Juicy burger patties made with grass-fed beef",
+        "price": 9.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/154x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 46,
+        "title": "Maple Almond Yogurt",
+        "category": "Food",
+        "description": "Creamy yogurt made with maple and almond flavors.",
+        "price": 1.89,
+        "rating": 4,
+        "image": "http://dummyimage.com/110x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 47,
+        "title": "Cucumber",
+        "category": "Food",
+        "description": "Fresh and crunchy cucumbers, great for salads.",
+        "price": 0.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/115x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 48,
+        "title": "Dog Waste Bag Dispenser",
+        "category": "Pets",
+        "description": "Convenient dispenser for dog waste bags on walks.",
+        "price": 6.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/108x100.png/dddddd/000000"
+    },
+    {
+        "id": 49,
+        "title": "Pet Training Pads",
+        "category": "Pets",
+        "description": "Absorbent training pads for puppies and kittens.",
+        "price": 24.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/240x100.png/dddddd/000000"
+    },
+    {
+        "id": 50,
+        "title": "Luxury Yoga Mat",
+        "category": "Music & Fitness",
+        "description": "High-density, non-slip yoga mat for stability and comfort.",
+        "price": 39.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/176x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 51,
+        "title": "Grilled Veggie Burgers",
+        "category": "Food",
+        "description": "Delicious veggie burgers loaded with grilled vegetables.",
+        "price": 6.29,
+        "rating": 3,
+        "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 52,
+        "title": "Digital Voice Recorder",
+        "category": "Electronics",
+        "description": "High-quality voice recorder for lectures and meetings.",
+        "price": 49.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/166x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 53,
+        "title": "Dog Training Collar",
+        "category": "Pets",
+        "description": "Rechargeable training collar for effective behavior training.",
+        "price": 39.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/241x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 54,
+        "title": "Tomato Sauce",
+        "category": "Food",
+        "description": "Rich and flavorful tomato sauce for pasta or pizza.",
+        "price": 2.79,
+        "rating": 3,
+        "image": "http://dummyimage.com/248x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 55,
+        "title": "Sesame Garlic Stir-Fry Sauce",
+        "category": "Food",
+        "description": "A flavorful sauce for stir-frying vegetables and meats.",
+        "price": 2.79,
+        "rating": 2,
+        "image": "http://dummyimage.com/111x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 56,
+        "title": "Microwave Popcorn Maker",
+        "category": "Home & Kitchen",
+        "description": "Healthier way to make popcorn in the microwave without oil.",
+        "price": 19.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/221x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 57,
+        "title": "Stuffed Grape Leaves",
+        "category": "Food",
+        "description": "Grape leaves stuffed with rice and herbs, ready to eat.",
+        "price": 5.79,
+        "rating": 4,
+        "image": "http://dummyimage.com/215x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 58,
+        "title": "Feta Cheese",
+        "category": "Food",
+        "description": "Tangy feta cheese, perfect for salads and sandwiches.",
+        "price": 4.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/214x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 59,
+        "title": "Egg Noodles",
+        "category": "Food",
+        "description": "Wide egg noodles, perfect for casseroles and soups.",
+        "price": 2.29,
+        "rating": 4,
+        "image": "http://dummyimage.com/215x100.png/dddddd/000000"
+    },
+    {
+        "id": 60,
+        "title": "Travel Document Organizer",
+        "category": "Home & Kitchen",
+        "description": "Organize travel documents, passport, and cards.",
+        "price": 15.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/239x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 61,
+        "title": "Bicycle Repair Kit",
+        "category": "Home & Kitchen",
+        "description": "Essential tools for on-the-go bike maintenance.",
+        "price": 14.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/121x100.png/dddddd/000000"
+    },
+    {
+        "id": 62,
+        "title": "Butternut Squash Ravioli",
+        "category": "Food",
+        "description": "Delicate ravioli filled with roasted butternut squash and Kitchen, perfect with a sage butter sauce.",
+        "price": 6.29,
+        "rating": 4,
+        "image": "http://dummyimage.com/144x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 63,
+        "title": "Mango Salsa",
+        "category": "Food",
+        "description": "Fresh mango salsa with a hint of lime for a zesty topping.",
+        "price": 3.49,
+        "rating": 2,
+        "image": "http://dummyimage.com/214x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 64,
+        "title": "Canvas High-Top Sneakers",
+        "category": "Fashion",
+        "description": "Trendy high-top canvas sneakers for a stylish streetwear look.",
+        "price": 49.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/181x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 65,
+        "title": "Honey Roasted Peanuts",
+        "category": "Snacks & Beverages",
+        "description": "Crunchy peanuts coated in honey, perfect for snacking.",
+        "price": 3.19,
+        "rating": 5,
+        "image": "http://dummyimage.com/160x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 66,
+        "title": "High-Waisted Skirt",
+        "category": "Fashion",
+        "description": "Chic high-waisted skirt, perfect for professional or casual settings.",
+        "price": 34.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/109x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 67,
+        "title": "Italian Breadsticks",
+        "category": "Snacks & Beverages",
+        "description": "Crispy breadsticks seasoned with herbs and garlic.",
+        "price": 2.49,
+        "rating": 5,
+        "image": "http://dummyimage.com/232x100.png/dddddd/000000"
+    },
+    {
+        "id": 68,
+        "title": "Biodegradable Trash Bags",
+        "category": "Home & Kitchen",
+        "description": "Eco-friendly trash bags that break down naturally.",
+        "price": 12.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/199x100.png/dddddd/000000"
+    },
+    {
+        "id": 69,
+        "title": "Vanilla Pudding Mix",
+        "category": "Food",
+        "description": "Instant mix for creamy vanilla pudding.",
+        "price": 1.29,
+        "rating": 2,
+        "image": "http://dummyimage.com/235x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 70,
+        "title": "Kids' Outdoor Explorer Kit",
+        "category": "Toys",
+        "description": "Fun kit for aspiring explorers with binoculars and a compass.",
+        "price": 24.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/129x100.png/dddddd/000000"
+    },
+    {
+        "id": 71,
+        "title": "Organic Ramen Noodles",
+        "category": "Food",
+        "description": "Quick-cooking ramen noodles made with organic wheat.",
+        "price": 2.89,
+        "rating": 2,
+        "image": "http://dummyimage.com/127x100.png/dddddd/000000"
+    },
+    {
+        "id": 72,
+        "title": "Sriracha Honey Glaze",
+        "category": "Food",
+        "description": "A spicy glaze made with sriracha and honey, perfect for meats.",
+        "price": 3.59,
+        "rating": 5,
+        "image": "http://dummyimage.com/134x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 73,
+        "title": "Travel Jewelry Organizer",
+        "category": "Accessories",
+        "description": "Compact storage for your jewelry while traveling.",
+        "price": 19.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/162x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 74,
+        "title": "Portable Hand Warmer",
+        "category": "Accessories",
+        "description": "Rechargeable hand warmer for cold weather comfort.",
+        "price": 24.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/214x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 75,
+        "title": "Organic Coconut Water",
+        "category": "Snacks & Beverages",
+        "description": "Refreshing coconut water packed with electrolytes for hydration.",
+        "price": 2.79,
+        "rating": 2,
+        "image": "http://dummyimage.com/122x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 76,
+        "title": "Whole Wheat Pasta",
+        "category": "Food",
+        "description": "Nutritious and hearty pasta made from whole wheat flour.",
+        "price": 2.49,
+        "rating": 2,
+        "image": "http://dummyimage.com/132x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 77,
+        "title": "Screen Cleaning Kit",
+        "category": "Electronics",
+        "description": "Safe cleaning solution and tools for electronics screens.",
+        "price": 15.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/106x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 78,
+        "title": "Digital Voice Recorder",
+        "category": "Electronics",
+        "description": "High-quality voice recorder for lectures and meetings.",
+        "price": 49.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/157x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 79,
+        "title": "Skincare Set",
+        "category": "Fashion",
+        "description": "All-natural skincare set for daily use.",
+        "price": 54.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/241x100.png/dddddd/000000"
+    },
+    {
+        "id": 80,
+        "title": "Vegan Caesar Dressing",
+        "category": "Food",
+        "description": "Creamy vegan dressing made with cashews, perfect for salads.",
+        "price": 3.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/130x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 81,
+        "title": "Coconut Lime Rice",
+        "category": "Food",
+        "description": "Flavorful rice mixed with coconut and lime, a tropical side dish.",
+        "price": 2.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/134x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 82,
+        "title": "Rainbow Veggie Chips",
+        "category": "Snacks & Beverages",
+        "description": "Colorful veggie chips made from beets, carrots, and sweet potatoes.",
+        "price": 3.29,
+        "rating": 3,
+        "image": "http://dummyimage.com/221x100.png/dddddd/000000"
+    },
+    {
+        "id": 83,
+        "title": "Almond Joy Munch Bars",
+        "category": "Snacks & Beverages",
+        "description": "A delightful mix of chocolate, coconut, and almonds in a snack bar.",
+        "price": 1.39,
+        "rating": 2,
+        "image": "http://dummyimage.com/235x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 84,
+        "title": "Blackberry Compote",
+        "category": "Food",
+        "description": "Sweet blackberry compote, perfect for topping desserts.",
+        "price": 5.29,
+        "rating": 2,
+        "image": "http://dummyimage.com/136x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 85,
+        "title": "DIY Candle Making Kit",
+        "category": "Art Supplies",
+        "description": "Everything you need to make your own candles.",
+        "price": 22.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/200x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 86,
+        "title": "Organic Tomato Ketchup",
+        "category": "Food",
+        "description": "Classic ketchup made from organic tomatoes, no added sugar.",
+        "price": 3.49,
+        "rating": 1,
+        "image": "http://dummyimage.com/203x100.png/dddddd/000000"
+    },
+    {
+        "id": 87,
+        "title": "Organic Italian Seasoning",
+        "category": "Home & Kitchen",
+        "description": "A blend of dried herbs commonly used in Italian cooking.",
+        "price": 2.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/220x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 88,
+        "title": "Almond Butter Granola Bars",
+        "category": "Snacks & Beverages",
+        "description": "Crunchy granola bars made with almond butter, oats, and honey, perfect for on-the-go snacking.",
+        "price": 4.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/141x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 89,
+        "title": "Peach Green Tea",
+        "category": "Snacks & Beverages",
+        "description": "Refreshing green tea infused with peach, perfect for a hot day.",
+        "price": 3.49,
+        "rating": 5,
+        "image": "http://dummyimage.com/118x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 90,
+        "title": "Ice Cream",
+        "category": "Food",
+        "description": "Rich and creamy ice cream, available in various flavors.",
+        "price": 5.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/228x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 91,
+        "title": "Digital Bullet Journal",
+        "category": "Electronics",
+        "description": "Stylish digital journaling app for notes and organizing tasks.",
+        "price": 24.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/119x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 92,
+        "title": "Halloween Decoration Set",
+        "category": "Home & Kitchen",
+        "description": "Fun decorations for Halloween to set a spooky atmosphere.",
+        "price": 29.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/116x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 93,
+        "title": "USB Wall Charger",
+        "category": "Accessories",
+        "description": "Multiple USB ports for charging devices simultaneously.",
+        "price": 19.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/224x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 94,
+        "title": "Mango Chia Pudding",
+        "category": "Snacks & Beverages",
+        "description": "Healthy chia pudding made with mango and coconut milk.",
+        "price": 4.49,
+        "rating": 5,
+        "image": "http://dummyimage.com/153x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 95,
+        "title": "Pet Grooming Gloves",
+        "category": "Pets",
+        "description": "Gentle grooming gloves for shedding pets.",
+        "price": 9.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/217x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 96,
+        "title": "Collapsible Pet Dog Bowl",
+        "category": "Pets",
+        "description": "Travel-friendly dog bowl that is collapsible for easy storage.",
+        "price": 9.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/179x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 97,
+        "title": "Toilet Paper (12 rolls)",
+        "category": "Home & Kitchen",
+        "description": "Soft and strong toilet paper for everyday use.",
+        "price": 8.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/219x100.png/dddddd/000000"
+    },
+    {
+        "id": 98,
+        "title": "Personal Safety Alarm",
+        "category": "Electronics",
+        "description": "Compact alarm for personal safety and security.",
+        "price": 12.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/193x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 99,
+        "title": "Chickpea Salad Deluxe",
+        "category": "Food",
+        "description": "Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad.",
+        "price": 4.29,
+        "rating": 2,
+        "image": "http://dummyimage.com/173x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 100,
+        "title": "Vegetable Lasagna",
+        "category": "Food",
+        "description": "Layers of pasta, veggies, and cheese baked to perfection.",
+        "price": 6.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/104x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 101,
+        "title": "Luminous Night Light",
+        "category": "Home & Kitchen",
+        "description": "Soft glow night light for children's rooms or bedside.",
+        "price": 15.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/238x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 102,
+        "title": "Bicycle Repair Kit",
+        "category": "Home & Kitchen",
+        "description": "Essential tools for on-the-go bike maintenance.",
+        "price": 14.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/131x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 103,
+        "title": "Herb Seasoned Rice",
+        "category": "Food",
+        "description": "A flavorful rice side dish seasoned with herbs and Kitchen.",
+        "price": 2.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/188x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 104,
+        "title": "Apple Cinnamon Oatmeal",
+        "category": "Food",
+        "description": "Warm oatmeal flavored with apple and cinnamon.",
+        "price": 2.89,
+        "rating": 2,
+        "image": "http://dummyimage.com/174x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 105,
+        "title": "Creamy Avocado Dip",
+        "category": "Snacks & Beverages",
+        "description": "Rich and creamy dip made with real avocado, great for chips.",
+        "price": 3.49,
+        "rating": 5,
+        "image": "http://dummyimage.com/221x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 106,
+        "title": "Thai Peanut Noodles",
+        "category": "Food",
+        "description": "Noodles tossed in a spicy Thai peanut sauce.",
+        "price": 4.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/123x100.png/dddddd/000000"
+    },
+    {
+        "id": 107,
+        "title": "Dog Walking Waist Pack",
+        "category": "Pets",
+        "description": "Hands-free waist pack for carrying essentials while walking your dog.",
+        "price": 19.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/113x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 108,
+        "title": "Classic Pumps",
+        "category": "Fashion",
+        "description": "Elegant classic pumps that add sophistication to any outfit.",
+        "price": 64.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/219x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 109,
+        "title": "Chocolate Mint Protein Shake",
+        "category": "Snacks & Beverages",
+        "description": "A nutritious shake with rich chocolate and refreshing mint flavors.",
+        "price": 3.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/163x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 110,
+        "title": "Interactive Plush Toy",
+        "category": "Toys",
+        "description": "Soft, cuddly toy that interacts with children.",
+        "price": 34.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 111,
+        "title": "Organic Brown Rice Cakes",
+        "category": "Snacks & Beverages",
+        "description": "Light and crunchy rice cakes made from organic brown rice.",
+        "price": 3.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/233x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 112,
+        "title": "Cooking Utensil Set",
+        "category": "Home & Kitchen",
+        "description": "Complete set of cooking utensils made from bamboo.",
+        "price": 24.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/172x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 113,
+        "title": "Greek Yogurt Parfait",
+        "category": "Food",
+        "description": "Layered Greek yogurt with granola and mixed berries, ready to enjoy.",
+        "price": 4.49,
+        "rating": 1,
+        "image": "http://dummyimage.com/185x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 114,
+        "title": "Tea Infuser Bottle",
+        "category": "Home & Kitchen",
+        "description": "Bottle with infuser for brewing loose-leaf tea on the go.",
+        "price": 19.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/114x100.png/dddddd/000000"
+    },
+    {
+        "id": 115,
+        "title": "Garlic Herb Cream Cheese",
+        "category": "Food",
+        "description": "Spreadable cream cheese blended with garlic and herbs.",
+        "price": 2.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/126x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 116,
+        "title": "Shredded Cheese",
+        "category": "Food",
+        "description": "Blend of cheddar and mozzarella cheese, great for recipes.",
+        "price": 4.29,
+        "rating": 1,
+        "image": "http://dummyimage.com/136x100.png/dddddd/000000"
+    },
+    {
+        "id": 117,
+        "title": "Pest Control Traps",
+        "category": "Home & Kitchen",
+        "description": "Non-toxic traps for catching Home pests safely.",
+        "price": 22.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/190x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 118,
+        "title": "Lemon Sorbet",
+        "category": "Food",
+        "description": "Refreshing sorbet with a zesty lemon flavor.",
+        "price": 4.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/228x100.png/dddddd/000000"
+    },
+    {
+        "id": 119,
+        "title": "Teriyaki Chicken Stir-Fry",
+        "category": "Food",
+        "description": "Frozen stir-fry mix with chicken, veggies, and teriyaki sauce.",
+        "price": 6.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/246x100.png/dddddd/000000"
+    },
+    {
+        "id": 120,
+        "title": "Sun-Dried Tomatoes",
+        "category": "Food",
+        "description": "Dried tomatoes packed with deep flavor for salads and pasta.",
+        "price": 3.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/176x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 121,
+        "title": "Multi-Tool",
+        "category": "Home & Kitchen",
+        "description": "Versatile multi-tool with 15 different functions.",
+        "price": 39.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/165x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 122,
+        "title": "BBQ Jackfruit",
+        "category": "Food",
+        "description": "Tender jackfruit cooked in BBQ sauce, a delicious plant-based alternative.",
+        "price": 4.29,
+        "rating": 3,
+        "image": "http://dummyimage.com/232x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 123,
+        "title": "Almond Crunch Granola Bars",
+        "category": "Snacks & Beverages",
+        "description": "Nutty granola bars for healthy snacking.",
+        "price": 3.49,
+        "rating": 2,
+        "image": "http://dummyimage.com/219x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 124,
+        "title": "Grilled Veggie Burgers",
+        "category": "Food",
+        "description": "Delicious veggie burgers loaded with grilled vegetables.",
+        "price": 6.29,
+        "rating": 1,
+        "image": "http://dummyimage.com/111x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 125,
+        "title": "Grapes (red)",
+        "category": "Food",
+        "description": "Fresh seedless red grapes, perfect for snacking.",
+        "price": 3.49,
+        "rating": 5,
+        "image": "http://dummyimage.com/188x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 126,
+        "title": "Fitbit Activity Tracker",
+        "category": "Music & Fitness",
+        "description": "Advanced wristband that tracks daily activities and sleep.",
+        "price": 99.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/226x100.png/dddddd/000000"
+    },
+    {
+        "id": 127,
+        "title": "Ceramic Planter Set",
+        "category": "Home & Kitchen",
+        "description": "Set of decorative ceramic planters for indoor plants.",
+        "price": 39.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/183x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 128,
+        "title": "Smartphone Car Mount with Wireless Charging",
+        "category": "Electronics",
+        "description": "Secure phone mount that wirelessly charges your device while driving.",
+        "price": 39.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/129x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 129,
+        "title": "Coloring Books for Adults",
+        "category": "Books",
+        "description": "Intricate designs for adults to relax and unwind.",
+        "price": 14.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/231x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 130,
+        "title": "Inflatable Pool Float",
+        "category": "Home & Kitchen",
+        "description": "Fun inflatable float for lounging in the pool or beach.",
+        "price": 29.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/222x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 131,
+        "title": "Camping Tarp",
+        "category": "Home & Kitchen",
+        "description": "Durable tarp for outdoor camping and protection.",
+        "price": 32.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/174x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 132,
+        "title": "Luxury Bathrobe",
+        "category": "Fashion",
+        "description": "Soft and cozy bathrobe perfect for relaxing at home.",
+        "price": 49.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/157x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 133,
+        "title": "Pet Hair Removal Brush",
+        "category": "Pets",
+        "description": "Effective brush for removing loose hair from pets.",
+        "price": 14.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/122x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 134,
+        "title": "Field Journal",
+        "category": "Books",
+        "description": "Durable journal for nature observations and notes.",
+        "price": 14.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/157x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 135,
+        "title": "Peach Yogurt",
+        "category": "Food",
+        "description": "Creamy peach-flavored yogurt with real fruit.",
+        "price": 1.29,
+        "rating": 4,
+        "image": "http://dummyimage.com/118x100.png/dddddd/000000"
+    },
+    {
+        "id": 136,
+        "title": "Window Bird Feeder",
+        "category": "Home & Kitchen",
+        "description": "Suction cup bird feeder for close-up bird watching.",
+        "price": 19.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/158x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 137,
+        "title": "Compact Electric Kettle",
+        "category": "Home & Kitchen",
+        "description": "Quick-boiling kettle for home and office use.",
+        "price": 29.99,
+        "rating": 5,
+        "image": "http://dummyimage.com/124x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 138,
+        "title": "Portable Refrigerator Freezer",
+        "category": "Home & Kitchen",
+        "description": "Compact fridge ideal for camping and road trips.",
+        "price": 299.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/141x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 139,
+        "title": "Indestructible Dog Toy",
+        "category": "Pets",
+        "description": "Durable toy designed for heavy chewers.",
+        "price": 15.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/164x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 140,
+        "title": "Smart Thermostat",
+        "category": "Home & Kitchen",
+        "description": "Wi-Fi enabled thermostat for energy-saving temperature control.",
+        "price": 149.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/117x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 141,
+        "title": "Baked Mac and Cheese",
+        "category": "Food",
+        "description": "Creamy macaroni and cheese baked to perfection.",
+        "price": 5.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/159x100.png/dddddd/000000"
+    },
+    {
+        "id": 142,
+        "title": "Electric Fondue Pot",
+        "category": "Home & Kitchen",
+        "description": "Set for making fondue at home.",
+        "price": 39.99,
+        "rating": 4,
+        "image": "http://dummyimage.com/169x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 143,
+        "title": "Lemon Garlic Marinade",
+        "category": "Food",
+        "description": "A zesty marinade made with lemon juice and garlic, ideal for chicken or fish.",
+        "price": 4.29,
+        "rating": 3,
+        "image": "http://dummyimage.com/139x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 144,
+        "title": "Sunglasses",
+        "category": "Accessories",
+        "description": "Polarized sunglasses with UV protection.",
+        "price": 29.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/230x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 145,
+        "title": "Peach Salsa",
+        "category": "Food",
+        "description": "Sweet and spicy salsa made with fresh peaches.",
+        "price": 3.29,
+        "rating": 3,
+        "image": "http://dummyimage.com/197x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 146,
+        "title": "Oven Mitts",
+        "category": "Home & Kitchen",
+        "description": "Silicone oven mitts for safe handling of hot cookware.",
+        "price": 15.99,
+        "rating": 2,
+        "image": "http://dummyimage.com/218x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 147,
+        "title": "Luxury Rolling Makeup Case",
+        "category": "Fashion",
+        "description": "Stylish and spacious case for makeup and beauty products.",
+        "price": 99.99,
+        "rating": 1,
+        "image": "http://dummyimage.com/115x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 148,
+        "title": "Foam Roller for Muscle Recovery",
+        "category": "Music & Fitness",
+        "description": "Use this foam roller for effective post-workout recovery.",
+        "price": 29.99,
+        "rating": 3,
+        "image": "http://dummyimage.com/123x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 149,
+        "title": "Cinnamon Raisin Bagels",
+        "category": "Snacks & Beverages",
+        "description": "Soft bagels flavored with cinnamon and raisins.",
+        "price": 4.19,
+        "rating": 2,
+        "image": "http://dummyimage.com/126x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 150,
+        "title": "Marinated Artichokes",
+        "category": "Food",
+        "description": "Artichoke hearts marinated in herbs and oil.",
+        "price": 3.79,
+        "rating": 5,
+        "image": "http://dummyimage.com/185x100.png/cc0000/ffffff"
+    }
+]

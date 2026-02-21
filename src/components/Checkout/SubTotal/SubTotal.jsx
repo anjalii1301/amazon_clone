@@ -11,7 +11,7 @@ const SubTotal = () => {
   const navigateTo = useNavigate();
   const [{ basket }, dispatch] = useStateValue();
 
- 
+
 
   const calculateItemDiscount = (item) => {
     return item.quantity > 4 ? 0.25 * item.price * item.quantity : 0;
@@ -42,7 +42,7 @@ const SubTotal = () => {
                   itemDiscount > 0 && (
                     <div key={item.id} className="subtotal_discountOffer">
                       <small>
-                        <p>Discount on {item.title} (25% off) of  Rs. {itemDiscount.toFixed(2)}</p>
+                        <p>Discount on {item.title} (25% off) of  $ {itemDiscount.toFixed(2)}</p>
                       </small>
                     </div>
                   )
@@ -66,4 +66,4 @@ const SubTotal = () => {
 }
 
 
-        export default SubTotal;
+export default SubTotal;

@@ -48,7 +48,7 @@ const Checkout = () => {
             value={getBasketTotal(basket)}
             displayType={"text"}
             thousandSeparator={true}
-            prefix={"Rs. "}
+            prefix={"$ "}
           />
         </div>
       </div>

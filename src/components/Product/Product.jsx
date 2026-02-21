@@ -1,8 +1,7 @@
-import React from 'react'
 import './Product.css'
 import { useStateValue } from '../../StateProvider'
 
-const Product = ({ id, title, price, image, rating }) => {
+const ProductCard = ({ id, title, price, image, rating, description }) => {
   const [state, dispatch] = useStateValue();
   let quantity = 1;
 
@@ -17,33 +16,37 @@ const Product = ({ id, title, price, image, rating }) => {
         price: price,
         rating: rating,
         quantity: quantity,
+        description: description,
       },
     });
   };
 
   return (
-    <div className="product">
-      <div className="product_info">
-        <p><strong>{title}</strong></p>
-        <p className="product_price">
-          Rs.
-          <strong>{price}/-</strong>
-        </p>
-        <div className="product_rating">
-          {Array(rating)
-            .fill()
-            .map((_, i) => (
-              <p>🌟</p>
-            ))}
-        </div>
+     <div className="product-card">
+      <div className="product-image-wrapper">
+        <img src={image} alt={title} className="product-image" />
       </div>
 
-      <img src={image} alt="" />
+      <div className="product-content">
+        <h3 className="product-title">{title}</h3>
 
+        <p className="product-description">
+          {description?.length > 80
+            ? description.slice(0, 80) + "..."
+            : description}
+        </p>
 
-      <button onClick={addtoCart} >Add to Cart</button>
+        <div className="product-rating">
+          ⭐ {rating} / 5
+        </div>
+
+        <div className="product-footer">
+          <span className="product-price">${price}</span>
+          <button className="add-to-cart-btn" onClick={addtoCart}>Add to Cart</button>
+        </div>
+      </div>
     </div>
   )
 }
 
-export default Product;
+export default ProductCard;

@@ -1,0 +1,54 @@
+
+/* Category bar */
+.category-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 12px;
+  background-color: #232f3e; 
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: none;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+
+/* Category buttons */
+.category-btn {
+  background: transparent;
+  color: #ffffff;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.category-btn:hover {
+  border: 1px solid #ffffff;
+}
+
+.category-btn.active {
+  border: 1px solid #ffffff;
+  font-weight: 600;
+}
+
+/* Product grid */
+.product-grid {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 24px;
+  padding-left: 32px;
+  padding-right: 12px;
+}
+
+/* Empty state */
+.no-products {
+  font-size: 1rem;
+  color: #666;
+}

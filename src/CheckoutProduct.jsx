@@ -65,12 +65,12 @@ const CheckoutProduct = ({ id, image, title, price, rating, quantity }) => {
         <div className="checkoutProduct_discount">
           <p>Flat 25% Off</p>
           <p> <small>On product quantity more than 4</small> </p>
-          <p>   <strong>Rs.{updatedPrice}</strong></p>
+          <p>   <strong>${updatedPrice}</strong></p>
         </div>
       )}
 
       <div className="checkoutProduct_price">
-        <strong>Rs.{price}</strong>
+        <strong>${price}</strong>
       </div>
 
     </div>
