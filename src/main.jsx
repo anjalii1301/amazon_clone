@@ -4,11 +4,14 @@ import App from './App.jsx'
 import './index.css'
 import reducer, { initialState } from "./reducer";
 import { StateProvider } from './StateProvider.jsx'
+import { SearchProvider } from './context/searchContext.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <StateProvider initialState={initialState} reducer={reducer}>
-    <App />
-    </StateProvider>
+    <SearchProvider>
+      <StateProvider initialState={initialState} reducer={reducer}>
+        <App />
+      </StateProvider>
+    </SearchProvider>
   </React.StrictMode>,
 )

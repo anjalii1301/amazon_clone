@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 import data from '../../assets/MOCK_DATA (1).json'
 import ProductCard from '../Product/Product';
 import './productList.css'

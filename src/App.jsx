@@ -7,7 +7,7 @@ import Checkout from "./components/Checkout/Checkout"
 import Login from "./components/Login/Login";
 import Payment from "./components/Payment/Payment";
 import { auth } from "./firebase";
-import { useStateValue } from "./StateProvider";
+import { useStateValue } from "./context/StateProvider";
 
 function App() {
   const [{}, dispatch] = useStateValue();
